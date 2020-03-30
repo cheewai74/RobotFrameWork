@@ -4,10 +4,10 @@ C:\Users\ytran\AppData\Local\Programs\Python\Python38-32\Scripts  // --- pip
 C:\Users\ytran\AppData\Local\Programs\Python\Python38-32\         // --- python
 
 RobotFrameWork:
-pip install robotframework
+pip install robotframework or pip install --user robotframework (If access denied)
 
 wxPython:
 pip install -U wxPython
 
 Ride
-pip install robotframework-ride
+pip install robotframework-ride or pip install --user robotframework-ride
