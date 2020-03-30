@@ -8,3 +8,6 @@ pip install robotframework
 
 wxPython:
 pip install -U wxPython
+
+Ride
+pip install robotframework-ride
