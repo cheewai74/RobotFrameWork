@@ -11,3 +11,6 @@ pip install -U wxPython
 
 Ride
 pip install robotframework-ride or pip install --user robotframework-ride
+
+Troubleshoot
+C:\Users\ytran\AppData\Roaming\Python\Python37\Scripts
