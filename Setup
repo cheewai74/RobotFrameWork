@@ -17,3 +17,6 @@ C:\Users\ytran\AppData\Roaming\Python\Python37\Scripts
 
 Python Database:
 pip install -U robotframework-databaselibrary or pip install --user -U robotframework-databaselibrary (If access denied)
+
+MYSQL:
+pip install pymysql  or pip install --user pymysql
