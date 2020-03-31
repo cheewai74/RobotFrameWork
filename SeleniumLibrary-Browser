@@ -1,0 +1,6 @@
+Open Browser
+    E.g:
+    Open Browser    file:///C:/Users/ytran/robotframework/dropdown.html   Chrome
+    Open Browser    https://tutorialpoint.com/                            Chrome
+
+Close Browser
