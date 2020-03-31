@@ -1,0 +1,16 @@
+Connect To Database
+    E.g:
+    Connect To Database    pymysql   ${dbname}   
+  
+  
+Table Must Exist
+    E.g:
+    Table Must Exist    customer
+  
+  
+Check If Exists In Database
+    E.g:
+    Check If Exists In Database   SELECT * FROM customer
+
+QUERY
+ 
