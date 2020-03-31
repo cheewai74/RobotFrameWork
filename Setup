@@ -15,5 +15,5 @@ pip install robotframework-ride or pip install --user robotframework-ride
 Troubleshoot
 C:\Users\ytran\AppData\Roaming\Python\Python37\Scripts
 
-Local Host:
-C:\Windows\System32\drivers\etc\hosts
+Python Database:
+pip install -U robotframework-databaselibrary or pip install --user -U robotframework-databaselibrary (If access denied)
