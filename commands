@@ -1,0 +1,4 @@
+robot -T nameoftestcase.robot
+E.g: robot -T dropdown.robot
+
+robot -T projectname testsuite
