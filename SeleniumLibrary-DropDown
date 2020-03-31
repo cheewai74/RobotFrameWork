@@ -1,0 +1,18 @@
+Select From List By Label
+
+    E.g:
+    Select From List By Label   name:months   5
+
+
+Select From List By Index   
+    E.g: <select name = "months">
+            <option value = "May">May</option>
+         </Select>
+         
+         Select From List By Index   name:months   5
+
+
+Select From List By Value
+
+    E.g:
+    Select From List By Value   name:months   5
