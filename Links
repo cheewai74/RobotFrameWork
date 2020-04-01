@@ -1,0 +1,9 @@
+Database:
+https://github.com/ThomasJaspers/robotframework-dblibrary (JDBC)
+http://franz-see.github.io/Robotframework-Database-Library (SQL)
+
+WebServices:
+https://github.com/ombre42/robotframework-sudslibrary
+
+Network Protocol:
+https://github.com/robotframework/Rammbock
