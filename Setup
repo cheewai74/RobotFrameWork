@@ -5,6 +5,7 @@ C:\Users\ytran\AppData\Local\Programs\Python\Python38-32\         // --- python
 
 RobotFrameWork:
 pip install robotframework or pip install --user robotframework (If access denied)
+pip install --user robotframework-debuglibrary
 
 wxPython:
 pip install -U wxPython
